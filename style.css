@@ -1,0 +1,29 @@
+.title {
+  font-family: 'Bungee Spice', cursive;
+  text-align: center;
+}
+
+.p1 {
+font-family: 'Anton', sans-serif;
+font-size: 50px;
+text-align: center;
+}
+.table {
+  text-align: center;
+}
+.p1in {
+  font-size: 30px;
+}
+.imgborder {
+  border-top: 5px solid black;
+  border-bottom: 5px solid black;
+  border-left: 5px solid black;
+  border-right: 5px solid black;
+  border-radius: 20px;
+}
+hr {
+  height: 10px;
+  background-color: #31E1F7;
+  width: 200;
+  border-radius: 10px;
+}
